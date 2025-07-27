@@ -1,0 +1,18 @@
+# Core testing framework
+pytest>=7.0.0
+pytest-bdd>=6.0.0
+pytest-html>=3.1.0
+pytest-xdist>=2.5.0
+pytest-rerunfailures>=10.0
+
+# Browser automation (MCP integration)
+playwright>=1.40.0
+
+# Reporting and utilities
+allure-pytest>=2.12.0
+python-dotenv>=0.19.0
+
+# Development dependencies
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.910
